@@ -15,7 +15,7 @@ Registra pacientes y pedidos, calcula la **ganancia real de cada venta** y mide 
 
 Es multi-organización, con Row Level Security en PostgreSQL, y la lógica de negocio vive en la base de datos.
 
-![Next.js](https://img.shields.io/badge/Next.js_16-1f2328?style=flat-square&logo=nextdotjs&logoColor=ffffff) ![TypeScript](https://img.shields.io/badge/TypeScript-1f2328?style=flat-square&logo=typescript&logoColor=3178C6) ![Supabase](https://img.shields.io/badge/Supabase-1f2328?style=flat-square&logo=supabase&logoColor=3FCF8E) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1f2328?style=flat-square&logo=postgresql&logoColor=4169E1) ![Vercel](https://img.shields.io/badge/Vercel-1f2328?style=flat-square&logo=vercel&logoColor=ffffff)
+![Next.js](https://img.shields.io/badge/Next.js_16-1f2328?style=for-the-badge&logo=nextdotjs&logoColor=ffffff) ![TypeScript](https://img.shields.io/badge/TypeScript-1f2328?style=for-the-badge&logo=typescript&logoColor=3178C6) ![Supabase](https://img.shields.io/badge/Supabase-1f2328?style=for-the-badge&logo=supabase&logoColor=3FCF8E) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1f2328?style=for-the-badge&logo=postgresql&logoColor=4169E1) ![Vercel](https://img.shields.io/badge/Vercel-1f2328?style=for-the-badge&logo=vercel&logoColor=ffffff)
 
 > 📄 [Ver el proyecto y sus capturas](https://github.com/ArnieAF/botica-crm)
 
@@ -23,7 +23,7 @@ Es multi-organización, con Row Level Security en PostgreSQL, y la lógica de ne
 
 API REST para gestionar autores, libros, usuarios y reservas, con **autenticación JWT**, roles `USER`/`ADMIN`, validaciones, manejo centralizado de errores y documentación en **Swagger**.
 
-![Java](https://img.shields.io/badge/Java_17-1f2328?style=flat-square&logo=openjdk&logoColor=ED8B00) ![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-1f2328?style=flat-square&logo=springboot&logoColor=6DB33F) ![Spring Security](https://img.shields.io/badge/Spring_Security-1f2328?style=flat-square&logo=springsecurity&logoColor=6DB33F) ![SQL Server](https://img.shields.io/badge/SQL_Server-1f2328?style=flat-square&logo=microsoftsqlserver&logoColor=CC2927)
+![Java](https://img.shields.io/badge/Java_17-1f2328?style=for-the-badge&logo=openjdk&logoColor=ED8B00) ![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-1f2328?style=for-the-badge&logo=springboot&logoColor=6DB33F) ![Spring Security](https://img.shields.io/badge/Spring_Security-1f2328?style=for-the-badge&logo=springsecurity&logoColor=6DB33F) ![SQL Server](https://img.shields.io/badge/SQL_Server-1f2328?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927)
 
 ---
 
