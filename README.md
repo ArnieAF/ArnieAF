@@ -1,10 +1,10 @@
 <h1 align="center">👋 ¡Hola, soy Arnie!</h1>
-<h3 align="center">Desarrollador Full Stack · Lima, Perú</h3>
+<h3 align="center">Desarrollador Full Stack e Ingeniero en Inteligencia Artificial · Lima, Perú</h3>
 <p align="center"><i>Construyo aplicaciones web completas: base de datos, API, interfaz, despliegue e integraciones.</i></p>
 
 ---
 
-## 🏆 Proyecto destacado: [Botica CRM](https://github.com/ArnieAF/botica-crm)
+## 💊 [Botica CRM](https://github.com/ArnieAF/botica-crm)
 
 *CRM en producción, usado a diario por una botica magistral en Perú.*
 
