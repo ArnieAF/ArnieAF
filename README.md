@@ -1,12 +1,12 @@
 <h1 align="center">👋 ¡Hola, soy Arnie!</h1>
 <h3 align="center">Desarrollador Full Stack | Ingeniero en IA · Lima, Perú</h3>
-<p align="center"><i>Construyo aplicaciones web completas: base de datos, API, interfaz, despliegue e integraciones.</i></p>
+<p align="center">Construyo aplicaciones web completas: base de datos, API, interfaz, despliegue e integraciones.</p>
 
 ---
 
 ## 💊 [Botica CRM](https://github.com/ArnieAF/botica-crm)
 
-*CRM en producción, usado a diario por una botica magistral en Perú.*
+CRM en producción, usado a diario por una botica magistral en Perú.
 
 Registra pacientes y pedidos, calcula la **ganancia real de cada venta** y mide **qué red social trae más clientes**. Además **publica sola carruseles en Instagram y Facebook**:
 - genera las imágenes al vuelo con `next/og`;
