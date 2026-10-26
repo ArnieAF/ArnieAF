@@ -1,5 +1,5 @@
 <h1 align="center">👋 ¡Hola, soy Arnie!</h1>
-<h3 align="center">Desarrollador Full Stack | Ingeniero en IA · Lima, Perú</h3>
+<h3 align="center">Desarrollador Full Stack · Lima, Perú</h3>
 
 ---
 
