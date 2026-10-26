@@ -1,6 +1,5 @@
 <h1 align="center">👋 ¡Hola, soy Arnie!</h1>
 <h3 align="center">Desarrollador Full Stack | Ingeniero en IA · Lima, Perú</h3>
-<p align="center">Construyo aplicaciones web completas: base de datos, API, interfaz, despliegue e integraciones.</p>
 
 ---
 
