@@ -4,7 +4,7 @@
 
 ---
 
-## 💊 [Botica CRM](https://github.com/ArnieAF/botica-crm)
+## [Botica CRM](https://github.com/ArnieAF/botica-crm)
 
 CRM en producción, usado a diario por una botica magistral en Perú.
 
@@ -19,7 +19,7 @@ Es multi-organización, con Row Level Security en PostgreSQL, y la lógica de ne
 
 > 📄 [Ver el proyecto y sus capturas](https://github.com/ArnieAF/botica-crm)
 
-## ☕ [API Biblioteca](https://github.com/ArnieAF/ApiRestBiblioteca)
+## [API Biblioteca](https://github.com/ArnieAF/ApiRestBiblioteca)
 
 API REST para gestionar autores, libros, usuarios y reservas, con **autenticación JWT**, roles `USER`/`ADMIN`, validaciones, manejo centralizado de errores y documentación en **Swagger**.
 
